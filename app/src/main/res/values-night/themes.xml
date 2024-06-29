@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Agrimony"
+        parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#1C7139</item>
+        <item name="colorPrimaryDark">#ADCCB6</item>
+        <!-- Customize your dark theme here. -->
+    </style>
+    <style name="SCREEN">
+        <item name="android:background">#232323</item>
+    </style>
+    <style name="TEXT">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="BUTTON">
+        <item name="android:background">#B9BABA</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+</resources>
